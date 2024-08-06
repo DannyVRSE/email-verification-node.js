@@ -1,0 +1,1 @@
+# Email verification on Node.js using Express.js, Sequelize and Postgresql
